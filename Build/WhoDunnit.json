@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Who Dunnit",
+"dataUrl": "WhoDunnit.data.unityweb",
+"asmCodeUrl": "WhoDunnit.asm.code.unityweb",
+"asmMemoryUrl": "WhoDunnit.asm.memory.unityweb",
+"asmFrameworkUrl": "WhoDunnit.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
